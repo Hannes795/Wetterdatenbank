@@ -1,0 +1,2 @@
+# Wetterdatenbank
+Informatik Projekt
