@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wetterdatenbank_Version_2", "Wetterdatenbank_Version_2\Wetterdatenbank_Version_2.vcxproj", "{1098F394-8F41-4D20-83AE-4A8521CF4D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Debug|x64.ActiveCfg = Debug|x64
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Debug|x64.Build.0 = Debug|x64
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Debug|x86.ActiveCfg = Debug|Win32
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Debug|x86.Build.0 = Debug|Win32
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Release|x64.ActiveCfg = Release|x64
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Release|x64.Build.0 = Release|x64
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Release|x86.ActiveCfg = Release|Win32
+		{1098F394-8F41-4D20-83AE-4A8521CF4D48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A94343E-57A1-49ED-8D08-6A96EF71435B}
+	EndGlobalSection
+EndGlobal
