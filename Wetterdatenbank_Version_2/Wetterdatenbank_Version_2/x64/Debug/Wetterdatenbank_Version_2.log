@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\lohei\Desktop\Informatik-Projekt\Wetterdatenbank_Version_2\Wetterdatenbank_Version_2\main.cpp(52): warning C4715: "menu::file_menu": Nicht alle Codepfade geben einen Wert zurück.
-  Wetterdatenbank_Version_2.vcxproj -> C:\Users\lohei\Desktop\Informatik-Projekt\Wetterdatenbank_Version_2\x64\Debug\Wetterdatenbank_Version_2.exe
